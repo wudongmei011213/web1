@@ -1,0 +1,318 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height:172px;
+	background-color: #f3f3f4;
+}
+.logo{ 
+	text-align: center;
+	height: 127px;
+}
+.logo img{
+	margin-top: 37px;
+}
+.nav{
+	width: 720px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.red{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(./line.png) no-repeat right center;
+}
+.red a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+}
+.red1{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+}
+.banner{
+	height: 405px;
+	background: url(./tu2.png) no-repeat center center;
+}
+.serve{
+	width:1200px;
+	height: 500px;
+	margin: 0 auto;
+}
+.serve1{
+	height: 70px;
+	margin: 0px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+.serve2{
+	width: 300px;
+	height: 368px;
+	margin:0px;
+	float: left;
+}
+.serve3{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	margin:0px auto;
+}
+.serve4{
+	width: 200px;
+	height: 219px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve4 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+
+.serve5{
+	width: 300px;
+	height: 368px;
+	margin: 0;
+	float:left;
+}
+.serve6{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve7{
+	width: 200px;
+	height: 219px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve5 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve8{
+	width: 300px;
+	height: 368px;
+	margin: 0;
+	float:left;
+}
+.serve9{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve10{
+	width: 200px;
+	height: 219px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve8 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve11{
+	width: 300px;
+	height: 368px;
+	margin: 0;
+	float:left;
+}
+.serve12{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve13{
+	width: 200px;
+	height: 219px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve11 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve14{
+	width: 300px;
+	height: 247px;
+	margin: 0;
+	float:left;
+}
+.serve15{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve16{
+	width: 200px;
+	height: 96px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve14 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve17{
+	width: 300px;
+	height: 247px;
+	margin: 0;
+	float:left;
+}
+.serve18{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve19{
+	width: 200px;
+	height: 96px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve17 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve20{
+	width: 300px;
+	height: 247px;
+	margin: 0;
+	float:left;
+}
+.serve21{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve22{
+	width: 200px;
+	height: 96px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve20 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve23{
+	width: 300px;
+	height: 247px;
+	margin: 0;
+	float:left;
+}
+.serve24{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve25{
+	width: 200px;
+	height: 96px;
+	margin: 0;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve23 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.serve26{
+	width: 300px;
+	height: 247px;
+	margin: 0;
+	float:left;
+}
+.serve27{
+	width: 150px;
+	height: 148px;
+	margin: 0px;
+	padding-left: 75px;
+}
+.serve28{
+	width: 200px;
+	height: 96px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.serve26 ul li{
+	list-style-type: disc;
+	color:gray;
+}
+.rne{
+	width: 1560px;
+	height: 711px;
+	margin-top: 300px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background: url(./bjt.png) no-repeat;
+}
+.rue1{
+	height: 70px;
+	margin: 0px;
+	padding-bottom: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+.rne ul li img{
+	float:left;
+}
+.qian{
+	height: 952px;
+	margin: 0;
+
+}
+.qian1{
+	height: 70px;
+	margin: 0px;
+	padding-bottom: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+.qian2{
+	width: 485px;
+	height: 293px;
+	margin-top: 0px;
+	margin-bottom: 80px;
+	margin-right: 78px;
+	margin-left: 240px;
+	float:left;
+	background: url(./qian.png) no-repeat;
+}
+.qian4 p{
+	font-size: 30px;
+	float:left;
+}
